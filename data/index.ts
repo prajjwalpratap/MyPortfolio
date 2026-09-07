@@ -131,7 +131,7 @@ export const projects = [
 
 export const skills = {
   mobile: ["React Native", "Android Development", "Expo", "TypeScript", "Dart", "Flutter"],
-  frontend: ["React.js", "JavaScript (ES6+)", "TypeScript", "Dart", "HTML5", "CSS3", "Tailwind CSS", "Next.js"],
+  frontend: ["React.js", "JavaScript (ES6+)", "TypeScript","HTML5", "CSS3", "Tailwind CSS", "Next.js"],
   backend: ["REST APIs", "Firebase", "MongoDB", "MySQL", "Node.js"],
   tools: ["Git", "GitHub", "VS Code", "Android Studio", "Xcode", "Postman"],
   practices: ["Agile", "Code Review", "Debugging", "Performance Optimization", "UI/UX Implementation"],
